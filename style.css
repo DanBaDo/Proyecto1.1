@@ -1,0 +1,11 @@
+/*
+Mookup block
+Remove this block before deply
+Avoid mockup images to overflow window.
+*/
+img.mockup {
+    max-width: 100%;
+}
+/*
+End mookup block
+*/

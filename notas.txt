@@ -1,0 +1,102 @@
+Para reproducir 
+
+ pip3 install flask && python3 server.py
+
+
+
+Imagen para post 1 y frase
+
+http://as01.epimg.net/mexico/imagenes/2019/05/29/album/1559084852_338102_1559086019_album_grande.jpg 
+
+
+“No debemos enfrentarnos solos a esta aventura, pues los héroes de todas las épocas lo han hecho antes que nosotros. El laberinto ya se conoce de principio a fin, solo debemos seguir el camino del héroe.”
+
+Imagen para post 2 y  frase
+
+https://imagenes.razon.com.mx/files/og_thumbnail/uploads/2020/10/17/5f8b3042f258e.jpeg
+
+
+A menudo las personas están trabajando duro en la cosa equivocada. Trabajar en la cosa correcta probablemente es más importante que trabajar duro.
+
+Imagen para post 3 y  frase
+
+https://imagenes.milenio.com/z8Cyd7NaloC7UsdK_wHPCTDCJvY=/936x566/https://www.milenio.com/uploads/media/2019/09/21/nacio-nacional-lucha-libre-twitter_0_22_958_596.jpg 
+
+
+Cualquier cosa que la mente del hombre puede concebir y creer, puede ser conseguida.
+
+Imagen para post 4 y  frase
+ 
+https://ih1.redbubble.net/image.1810826358.8909/fposter,small,wall_texture,product,750x1000.jpg 
+
+Cuando pierdas, no pierdas la lección
+
+Imagen para post 5 y  frase
+
+https://static.vecteezy.com/system/resources/previews/000/172/921/non_2x/mexican-wrestler-portrait-vector-set.jpg 
+
+Definitivamente quería ganar mi libertad. Pero la principal motivación no fue hacer dinero, sino causar un impacto.
+
+Imagen para post 6 y frase 
+
+https://i.pinimg.com/originals/da/e2/68/dae2684ba127f8c76d6d24c801fa156d.jpg 
+
+El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.
+
+
+
+
+Contenedor face tuiteo
+ fondo blanco 
+
+https://www.maslucha.com/wp-content/uploads/2020/09/bandido.jpg 
+
+https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/08/Marvel-vuelve-a-la-lucha-libre-mexicana-con-combates-surreales-1.jpg?fit=1280%2C720&quality=80&ssl=1 
+
+https://pics.filmaffinity.com/nuestra_lucha_libre_tv_series-728300712-large.jpg 
+
+https://i.pinimg.com/originals/d5/8a/13/d58a13428a0612b8456132c1e43eb482.jpg 
+
+https://i.pinimg.com/originals/c0/2d/65/c02d6519ecb7e18c9db7fab01059ab9e.jpg 
+
+
+Video 
+
+https://www.youtube.com/watch?v=OYvs-8nAE1w 
+
+
+
+Tipo de letra
+
+Link
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap" rel="stylesheet">
+
+
+
+font-family: 'Heebo', sans-serif;
+ 
+https://fonts.google.com/specimen/Audiowide?preview.text=Lucha%20mexica%20&preview.text_type=custom
+
+
+
+Luchadores
+https://s3.superluchas.com/2018/02/Psycho-Clown.jpg 
+
+https://images.reporteindigo.com/wp-content/uploads/2018/07/920_FAN_1531_39_1.jpg 
+
+https://kgbwrestling.files.wordpress.com/2014/11/sin-cara-e1415297200262.jpg 
+
+
+
+Logos 
+
+<i class="fab fa-facebook-f"></i> 
+<i class="fab fa-twitter"></i>
+<i class="fab fa-youtube"></i>
+<i class="fab fa-instagram"></i>
+
+<i class="fas fa-align-justify"></i>  lineas derecha
+<i class="far fa-thumbs-up"></i> like

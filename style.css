@@ -3,8 +3,22 @@ Mookup block
 Remove this block before deply
 Avoid mockup images to overflow window.
 */
+img.rounded {
+    display:inline-block;
+    width: 300px;px ;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+   
+
+}
+ p {
+  color:  white;!important
+}
 img.mockup {
     max-width: 100%;
+    min-width: 100%;
 }
 /*
 End mookup block

@@ -17,7 +17,7 @@ End mookup block
     background-color: var(--main-bg-color);
 }
 
-p.ordinaryText {
+p {
     color: white;
 }
 

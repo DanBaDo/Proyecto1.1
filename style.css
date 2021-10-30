@@ -9,3 +9,18 @@ img.mockup {
 /*
 End mookup block
 */
+:root {
+    --main-bg-color: rgb(32,32,32);
+}
+
+#mainContent > * {
+    background-color: var(--main-bg-color);
+}
+
+p.ordinaryText {
+    color: white;
+}
+
+footer p {
+    font-size: x-small;
+}

@@ -39,4 +39,9 @@ img#fighter {
     height: 130%;
     position:relative;
     bottom: 30%;
+    right: 20%;
+}
+
+div#socialNews {
+    max-height: 500px;
 }
